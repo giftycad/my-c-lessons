@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "chrono": "cpp",
+    "ctime": "cpp"
+  }
+}
